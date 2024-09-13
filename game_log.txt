@@ -1,3 +1,9 @@
 2024-09-13 11:26:20,728 - INFO - Game initialized
 2024-09-13 11:26:21,902 - INFO - Game started
 2024-09-13 11:26:26,557 - INFO - Player won the game
+2024-09-13 16:22:40,842 - INFO - Game initialized
+2024-09-13 16:22:41,872 - INFO - Game started
+2024-09-13 16:23:01,210 - INFO - Player won the game
+2024-09-13 16:25:12,559 - INFO - Game initialized
+2024-09-13 16:25:13,931 - INFO - Game started
+2024-09-13 16:25:17,928 - INFO - Player lost the game

@@ -3,7 +3,7 @@
 import logging
 from config import LOG_FILE
 
-# Configure the logger
+# 配置日志记录器
 logging.basicConfig(
     filename=LOG_FILE,
     filemode='a',
@@ -12,5 +12,5 @@ logging.basicConfig(
 )
 
 def log_event(event: str):
-    """Logs an event to the log file."""
+    """将事件记录到日志文件中。"""
     logging.info(event)

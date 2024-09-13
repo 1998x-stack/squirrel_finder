@@ -55,7 +55,7 @@ Make sure you have the following dependencies installed before running the game:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/squirrel_finder.git
+   git clone https://github.com/1998x-stack/squirrel_finder.git
    cd squirrel_finder
    ```
 
