@@ -1,0 +1,3 @@
+2024-09-13 11:26:20,728 - INFO - Game initialized
+2024-09-13 11:26:21,902 - INFO - Game started
+2024-09-13 11:26:26,557 - INFO - Player won the game
